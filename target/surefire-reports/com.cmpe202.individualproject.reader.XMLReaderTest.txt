@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.cmpe202.individualproject.reader.XMLReaderTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.022 s <<< FAILURE! - in com.cmpe202.individualproject.reader.XMLReaderTest
+com.cmpe202.individualproject.reader.XMLReaderTest.validateReadXml  Time elapsed: 0.022 s  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at com.cmpe202.individualproject.reader.XMLReaderTest.validateReadXml(XMLReaderTest.java:21)
+

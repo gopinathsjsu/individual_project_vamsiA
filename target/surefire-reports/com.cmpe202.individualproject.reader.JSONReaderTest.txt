@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.cmpe202.individualproject.reader.JSONReaderTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.075 s <<< FAILURE! - in com.cmpe202.individualproject.reader.JSONReaderTest
+com.cmpe202.individualproject.reader.JSONReaderTest.validateReadJson  Time elapsed: 0.074 s  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 11 out of bounds for length 0
+	at com.cmpe202.individualproject.reader.JSONReaderTest.validateReadJson(JSONReaderTest.java:23)
+
